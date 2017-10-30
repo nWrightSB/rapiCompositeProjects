@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="676aca8a-2bb0-4133-9e98-55ccaef69179" discardOkResults="true" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="SLA" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="676aca8a-2bb0-4133-9e98-55ccaef69179fileName">SLA</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:properties/><con:reportParameters/></con:testCase>
